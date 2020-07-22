@@ -64,7 +64,7 @@ then you can use it in template just like this:
 |----|----|----|----|
 |width|string|600px|width of the editor element|
 |height|string|400px|height of the editor element|
-|
+
 
 ## Note
 

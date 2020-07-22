@@ -1,11 +1,12 @@
 {
   "name": "editeur-vue",
   "description": "a richtext component implement from editeurjs",
-  "version": "1.0.9",
+  "version": "1.0.11",
   "author": "jiangheng90@live.com",
   "license": "MIT",
   "private": false,
   "main": "dist/editeur.vue.js",
+  "repository": "https://github.com/jiangheng90/editeur-vue",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --config webpack/webpack.dev.js",
     "build": "webpack --config webpack/webpack.prod.js"
