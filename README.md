@@ -68,10 +68,10 @@ then you can use it in template just like this:
 
 ## Note
 
-  &#x2022;this repostry is just an example to implement <a href="https://github.com/jiangheng90/editeur.js">editeur.js</a>'s fuction.
+  >this repostry is just an example to implement <a href="https://github.com/jiangheng90/editeur.js">editeur.js</a>'s fuction.
 
-  &#x2022;font-family and init function is not use in this component.
+  >font-family and init function is not use in this component.
 
-  &#x2022;In this component there are some problems in it.They are caused by <a href="https://github.com/jiangheng90/editeur.js">editeur.js</a> and maybe fixed later.
+  >In this component there are some problems in it.They are caused by <a href="https://github.com/jiangheng90/editeur.js">editeur.js</a> and maybe fixed later.
 
-  &#x2022;If you have any custmized event of methods request, you can add it yourself
+  >If you have any custmized event of methods request, you can add it yourself
