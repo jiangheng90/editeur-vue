@@ -1,7 +1,7 @@
 {
   "name": "editeur-vue",
   "description": "a richtext component implement from editeurjs",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "author": "jiangheng90@live.com",
   "license": "MIT",
   "private": false,
