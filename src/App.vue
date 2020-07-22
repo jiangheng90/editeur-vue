@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="c">
-      <editeur width="800px" height="600px"></editeur>
+      <editeur width="600px" height="400px"></editeur>
     </div>
   </div>
 </template>
