@@ -2,7 +2,9 @@
   <a>Editeur-Vue</a>
 </h1>
 
-<div align=center><img src="https://i0.hdslb.com/bfs/album/3f3c621dd9990b1a1506c5b2b01295136ff8d2f2.png@518w_1e_1c.png"/></div>
+<p align=center>
+<img src="https://camo.githubusercontent.com/8e580b1b4576a7ec916ee1e98477156b63636fb9/68747470733a2f2f69302e6864736c622e636f6d2f6266732f616c62756d2f336633633632316464393939306231613135303663356232623031323935313336666638643266322e706e6740353138775f31655f31632e706e67"/>
+</p>
 
 <p align="center">a implement of <a href="https://github.com/jiangheng90/editeur.js">editeur.js</a> in vue Component</p>
 
