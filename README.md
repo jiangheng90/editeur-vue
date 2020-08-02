@@ -42,18 +42,24 @@ Ant Design is used in component. If you want to use it, you need to import Ant D
 import { Dropdown, Input, Tooltip, Icon } from 'ant-design-vue'
 import 'ant-design-vue/dist/antd.css';
 
+import editor from 'editeur-vue'
+
 Vue.use(Dropdown)
 Vue.use(Input)
 Vue.use(Tooltip)
 Vue.use(Icon)
+
+Vue.component(editor.name, editor)
 ```
 or import whole ant design like this: 
 ```Javascript
 // main.js
 import antd from 'ant-design-vue'
 import 'ant-design-vue/dist/antd.css';
+import editor from 'editeur-vue'
 
 Vue.use(antd)
+Vue.component(editor.name, editor)
 ```
 
 then you can use it in template just like this:
