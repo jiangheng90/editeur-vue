@@ -38,7 +38,7 @@ npm install editeur-vue --save
 ```
 
 ## demo
-you can [demo](https://jiangheng90.github.io/editeur-vue/) work here. if you are in China or can not visit it, you need to use vpn to visit.
+you can see [demo](https://jiangheng90.github.io/editeur-vue/) work here. if you are in China or can not visit it, you need to use vpn to visit.
 
 ## usage
 Ant Design is used in component. If you want to use it, you need to import Ant Design as well. you can import the component I use in it like this:
